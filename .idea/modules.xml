@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOP/Contatore/Contatore.iml" filepath="$PROJECT_DIR$/OOP/Contatore/Contatore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cruciverba/Cruciverba.iml" filepath="$PROJECT_DIR$/Cruciverba/Cruciverba.iml" />
       <module fileurl="file://$PROJECT_DIR$/Esercizi_Java pt2.iml" filepath="$PROJECT_DIR$/Esercizi_Java pt2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Forme/Forme.iml" filepath="$PROJECT_DIR$/OOP/Forme/Forme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labirinto/Labirinto.iml" filepath="$PROJECT_DIR$/Labirinto/Labirinto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Lampadina/Lampadina.iml" filepath="$PROJECT_DIR$/OOP/Lampadina/Lampadina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
     </modules>
   </component>
 </project>

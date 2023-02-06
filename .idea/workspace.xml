@@ -1,24 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d00a4b6-80b2-4964-a7f6-75ee3f98c02c" name="Changes" comment="" />
+    <list default="true" id="1d00a4b6-80b2-4964-a7f6-75ee3f98c02c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cruciverba/Cruciverba.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cruciverba/src/Cruciverba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cruciverba/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Contatore/Contatore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Contatore/src/Contatore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Contatore/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Forme/Forme.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Forme/src/Cerchio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Forme/src/Colore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Forme/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Forme/src/Quadrato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Lampadina/src/Interruttore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Lampadina/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Lampadina/src/lampadina/StatoLampadina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Lampadina/src/lampadina/lampadina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirinto/Immagini/img.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirinto/Immagini/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirinto/Immagini/rogue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirinto/Labirinto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirinto/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labirinto/src/Labirinto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LBFSXEn3nQPU5kDUiNBcXORm7Z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/stefa/Corso-Java-Developer-2023-01",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\stefa\Esercizi_Java pt2\Cruciverba" />
+      <recent name="C:\Users\stefa\Esercizi_Java pt2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stefa\Esercizi_Java pt2\src" />
+      <recent name="C:\Users\stefa\Esercizi_Java pt2" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +92,8 @@
       <updated>1675336578575</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
