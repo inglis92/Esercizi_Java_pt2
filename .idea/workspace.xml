@@ -4,31 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d00a4b6-80b2-4964-a7f6-75ee3f98c02c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cruciverba/Cruciverba.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cruciverba/src/Cruciverba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cruciverba/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Contatore/Contatore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Contatore/src/Contatore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Contatore/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Forme/Forme.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Forme/src/Cerchio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Forme/src/Colore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Forme/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Forme/src/Quadrato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Lampadina/src/Interruttore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Lampadina/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Lampadina/src/lampadina/StatoLampadina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Lampadina/src/lampadina/lampadina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labirinto/Immagini/img.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labirinto/Immagini/preview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labirinto/Immagini/rogue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labirinto/Labirinto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labirinto/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labirinto/src/Labirinto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="1d00a4b6-80b2-4964-a7f6-75ee3f98c02c" name="Changes" comment="Commit fino a esercizio lampadina">
+      <change afterPath="$PROJECT_DIR$/OOP/Biblioteca/Biblioteca.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Biblioteca/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Biblioteca/src/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Biblioteca/src/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Biblioteca/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/src/riparazioni/DittaRiparazioni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/src/riparazioni/ListaDiRiparazioni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/src/riparazioni/ListaDiTecnici.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/src/riparazioni/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/src/riparazioni/Riparazione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/src/riparazioni/StatoRiparazione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/src/riparazioni/StatoTecnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/src/riparazioni/Tecnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Negozio/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Negozio/src/Carrello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Negozio/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Negozio/src/DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Negozio/src/Prodotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Negozio/src/Supermercato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Negozio/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -65,7 +61,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/stefa/Corso-Java-Developer-2023-01",
+    "last_opened_file_path": "C:/Users/stefa/Esercizi_Java pt2/OOP/DittaRiparazioni/src",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -74,6 +70,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP\Negozio" />
+      <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP\Biblioteca" />
       <recent name="C:\Users\stefa\Esercizi_Java pt2\Cruciverba" />
       <recent name="C:\Users\stefa\Esercizi_Java pt2" />
     </key>
@@ -91,9 +89,19 @@
       <option name="presentableId" value="Default" />
       <updated>1675336578575</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit fino a esercizio lampadina">
+      <created>1675702422566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675702422566</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Commit fino a esercizio lampadina" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit fino a esercizio lampadina" />
   </component>
 </project>
