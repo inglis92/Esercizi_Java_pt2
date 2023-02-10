@@ -4,27 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d00a4b6-80b2-4964-a7f6-75ee3f98c02c" name="Changes" comment="Commit fino a esercizio lampadina">
-      <change afterPath="$PROJECT_DIR$/OOP/Biblioteca/Biblioteca.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Biblioteca/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Biblioteca/src/Biblioteca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Biblioteca/src/Libro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Biblioteca/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/src/riparazioni/DittaRiparazioni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/src/riparazioni/ListaDiRiparazioni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/src/riparazioni/ListaDiTecnici.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/src/riparazioni/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/src/riparazioni/Riparazione.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/src/riparazioni/StatoRiparazione.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/src/riparazioni/StatoTecnico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/src/riparazioni/Tecnico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Negozio/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Negozio/src/Carrello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Negozio/src/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Negozio/src/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Negozio/src/Prodotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Negozio/src/Supermercato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Negozio/src/Test.java" afterDir="false" />
+    <list default="true" id="1d00a4b6-80b2-4964-a7f6-75ee3f98c02c" name="Changes" comment="Commit esercizi DittaRiparazioni e Negozio">
+      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/DittaRiparazioni.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Lampadina/Lampadina.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/Modulo 5 ereditarieta-polimorfismo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/distributoreBevande/Bevanda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/distributoreBevande/Caffe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/distributoreBevande/Cappuccino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/distributoreBevande/DistributoreDiBevande.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/distributoreBevande/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/distributoreBevande/distributoreBevande.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/formeGeometriche/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/formeGeometriche/Quadrato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/formeGeometriche/Rettangolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/formeGeometriche/formeGeometriche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/formeGeometriche/formeGeometriche.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/gestoreVeicoli/Autocarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/gestoreVeicoli/Automobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/gestoreVeicoli/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/gestoreVeicoli/Veicolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/gestoreVeicoli/gestoreVeicoli.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/serieA/Classifica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/serieA/Giocatore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/serieA/Partita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/serieA/Squadra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/serieA/serieA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Negozio/Negozio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/modulo 6/modulo 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/modulo 6/src/Dragonball/Combattimento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/modulo 6/src/Dragonball/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/modulo 6/src/Dragonball/Mossa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/modulo 6/src/Dragonball/Personaggio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/modulo 6/src/Dragonball/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/modulo 6/src/Dragonball/Tipo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -57,11 +69,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/stefa/Esercizi_Java pt2/OOP/DittaRiparazioni/src",
+    "last_opened_file_path": "C:/Users/stefa/Esercizi_Java pt2/OOP/modulo 6/src/Dragonball",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -70,15 +83,39 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP\modulo 6\src\Dragonball" />
+      <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP" />
+      <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP\DittaRiparazioni\src" />
+      <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP\Negozio\src" />
       <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP\Negozio" />
-      <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP\Biblioteca" />
-      <recent name="C:\Users\stefa\Esercizi_Java pt2\Cruciverba" />
-      <recent name="C:\Users\stefa\Esercizi_Java pt2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP\modulo 6\src\Dragonball" />
+      <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP\Modulo 5 ereditarieta-polimorfismo\src" />
+      <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP\src" />
       <recent name="C:\Users\stefa\Esercizi_Java pt2\src" />
       <recent name="C:\Users\stefa\Esercizi_Java pt2" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dragonball.Main" />
+      <module name="modulo 6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dragonball.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -96,12 +133,20 @@
       <option name="project" value="LOCAL" />
       <updated>1675702422566</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit esercizi DittaRiparazioni e Negozio">
+      <created>1675869145944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675869145944</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Commit fino a esercizio lampadina" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit fino a esercizio lampadina" />
+    <MESSAGE value="Commit esercizi DittaRiparazioni e Negozio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit esercizi DittaRiparazioni e Negozio" />
   </component>
 </project>
