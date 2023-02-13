@@ -10,9 +10,13 @@ public class Squadra {
         this.id = id;
         this.nome = nome;
         this.rosaDiGiocatori = rosaDiGiocatori;
-        this.punteggio = 0;
-        this.golFatti = 0;
-        this.golSubiti = 0;
+        punteggio = 0;
+        golFatti = 0;
+        golSubiti = 0;
+    }
+
+    public Squadra() {
+
     }
 
     public String getId() {

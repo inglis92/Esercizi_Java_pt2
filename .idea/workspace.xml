@@ -4,41 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d00a4b6-80b2-4964-a7f6-75ee3f98c02c" name="Changes" comment="Commit esercizi DittaRiparazioni e Negozio">
-      <change afterPath="$PROJECT_DIR$/OOP/DittaRiparazioni/DittaRiparazioni.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Lampadina/Lampadina.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/Modulo 5 ereditarieta-polimorfismo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/distributoreBevande/Bevanda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/distributoreBevande/Caffe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/distributoreBevande/Cappuccino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/distributoreBevande/DistributoreDiBevande.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/distributoreBevande/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/distributoreBevande/distributoreBevande.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/formeGeometriche/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/formeGeometriche/Quadrato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/formeGeometriche/Rettangolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/formeGeometriche/formeGeometriche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/formeGeometriche/formeGeometriche.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/gestoreVeicoli/Autocarro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/gestoreVeicoli/Automobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/gestoreVeicoli/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/gestoreVeicoli/Veicolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/gestoreVeicoli/gestoreVeicoli.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/serieA/Classifica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/serieA/Giocatore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/serieA/Partita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/serieA/Squadra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/serieA/serieA.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Negozio/Negozio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/modulo 6/modulo 6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/modulo 6/src/Dragonball/Combattimento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/modulo 6/src/Dragonball/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/modulo 6/src/Dragonball/Mossa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/modulo 6/src/Dragonball/Personaggio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/modulo 6/src/Dragonball/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/modulo 6/src/Dragonball/Tipo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="1d00a4b6-80b2-4964-a7f6-75ee3f98c02c" name="Changes" comment="Commit esercizi DistributoreDiBevande e dragonball completi, seriea da finire">
+      <change afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/serieA/SerieA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/modulo 6/src/turista_facoltoso/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/serieA/Classifica.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/serieA/Classifica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/serieA/Partita.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/serieA/Partita.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/serieA/Squadra.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Modulo 5 ereditarieta-polimorfismo/src/serieA/Squadra.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +46,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/stefa/Esercizi_Java pt2/OOP/modulo 6/src/Dragonball",
+    "last_opened_file_path": "C:/Users/stefa/Esercizi_Java pt2/OOP/modulo 6/src",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -83,11 +55,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP\modulo 6\src" />
+      <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP\modulo 6\src\turista_facoltoso" />
       <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP\modulo 6\src\Dragonball" />
       <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP" />
       <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP\DittaRiparazioni\src" />
-      <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP\Negozio\src" />
-      <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP\Negozio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\stefa\Esercizi_Java pt2\OOP\modulo 6\src\Dragonball" />
@@ -140,13 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675869145944</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit esercizi DistributoreDiBevande e dragonball completi, seriea da finire">
+      <created>1676042559237</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676042559237</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Commit fino a esercizio lampadina" />
     <MESSAGE value="Commit esercizi DittaRiparazioni e Negozio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit esercizi DittaRiparazioni e Negozio" />
+    <MESSAGE value="Commit esercizi DistributoreDiBevande e dragonball completi, seriea da finire" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit esercizi DistributoreDiBevande e dragonball completi, seriea da finire" />
   </component>
 </project>
