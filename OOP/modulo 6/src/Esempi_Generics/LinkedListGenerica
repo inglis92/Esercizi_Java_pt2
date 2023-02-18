@@ -1,0 +1,47 @@
+// Classe interna Node<T> che rappresenta un nodo della lista linkata
+class Node<T> {
+    // Attributi del nodo: valore e riferimento al nodo successivo
+    T value;
+    Node<T> next;
+
+    // Costruttore del nodo
+    public Node(T value) {
+        this.value = value;
+        this.next = null;
+    }
+}
+
+// Classe LinkedList<T> che contiene i metodi per manipolare la lista linkata
+class LinkedList<T> {
+    // Attributo della classe: riferimento al primo nodo della lista
+    private Node<T> head;
+
+    // Costruttore della classe
+    public LinkedList() {
+        this.head = null;
+    }
+
+    // Metodo per aggiungere un valore in testa alla lista
+    public void addFirst(T value) {
+        // Creo un nuovo nodo con il valore passato come parametro
+        Node<T> newNode = new Node<>(value);
+        // Collego il nuovo nodo al primo nodo della lista
+        newNode.next = head;
+        // Aggiorno il riferimento al primo nodo della lista con il nuovo nodo
+        head = newNode;
+    }
+
+    // Metodo per rimuovere il primo valore dalla lista e restituirlo
+    public T removeFirst() {
+        // Controllo se la lista è vuota, in tal caso lancio un'eccezione
+        if (head == null) {
+            throw new RuntimeException("La lista è vuota");
+        }
+        // Memorizzo il valore del primo nodo della lista in una variabile temporanea
+        T temp = head.value;
+        // Aggiorno il riferimento al primo nodo della lista con il secondo nodo della lista
+        head = head.next;
+        // Restituisco il valore memorizzato nella variabile temporanea
+        return temp;
+    }
+}
