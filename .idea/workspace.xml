@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d00a4b6-80b2-4964-a7f6-75ee3f98c02c" name="Changes" comment="Commit esercizio serie a completo">
-      <change afterPath="$PROJECT_DIR$/OOP/modulo 6/src/turista_facoltoso/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/modulo 6/src/turista_facoltoso/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/modulo 6/src/turista_facoltoso/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/modulo 6/src/turista_facoltoso/enumerators/Voto.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/modulo 6/src/turista_facoltoso/enumerators/Voto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
