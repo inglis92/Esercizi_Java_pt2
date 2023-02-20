@@ -6,7 +6,7 @@ import turista_facoltoso.entities.Abitazione;
 import java.time.LocalDate;
 import java.util.HashSet;
 
-public class Airbnb {
+public class AirBnB {
 
     public static HashSet<Abitazione> abitazioniDisponibili(LocalDate inizio, LocalDate fine) {
         HashSet<Abitazione> abDisponibili = new HashSet<>(); // creo un hashset

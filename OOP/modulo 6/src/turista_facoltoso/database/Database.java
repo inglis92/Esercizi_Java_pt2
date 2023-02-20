@@ -1,15 +1,14 @@
 package turista_facoltoso.database;
 
+import turista_facoltoso.entities.*;
+import turista_facoltoso.entities.users.Host;
+import turista_facoltoso.entities.users.Utente;
+
 import java.util.HashMap;
 import java.util.HashSet;
 
-import turista_facoltoso.entities.Abitazione;
-import turista_facoltoso.entities.Feedback;
-import turista_facoltoso.entities.Prenotazione;
-import turista_facoltoso.entities.users.Utente;
-
 public class Database {
-    
+
     private static HashMap<Integer, Utente> utenti = new HashMap<>();
     private static HashMap<Integer, Abitazione> abitazioni = new HashMap<>();
     private static HashMap<Integer, Prenotazione> prenotazioni = new HashMap<>();
@@ -18,18 +17,17 @@ public class Database {
     private static HashMap<Integer, HashSet<Integer>> abitazioniHost = new HashMap<>();
     // mappa tra host e insieme delle prenotazioni su abitazioni dell'host
     private static HashMap<Integer, HashSet<Integer>> prenotazioniRicevute = new HashMap<>();
-    //mappa tra utenti e prenotazioni effettuate dall'utente
+    // mappa tra utenti e prenotazioni effettuate dall'utente
     private static HashMap<Integer, HashSet<Integer>> prenotazioniEffettuate = new HashMap<>();
 
-    
-
-    public static HashMap<Integer, Abitazione> getAbitazioni() {return abitazioni;}
-    public static HashMap<Integer, Feedback> getFeedbacks() { return feedbacks;}
-    public static HashMap<Integer, HashSet<Integer>> getAbitazioniHost() { return abitazioniHost;}
-    public static HashMap<Integer, Utente> getUtenti() {return utenti;}
-    public static HashMap<Integer, Prenotazione> getPrenotazioni() { return prenotazioni;}
-    public static HashMap<Integer, HashSet<Integer>> getPrenotazioniRicevute() {return prenotazioniRicevute;}
-    public static HashMap<Integer, HashSet<Integer>> getPrenotazioniEffettuate() {return prenotazioniEffettuate;}
+    // getter
+    public static HashMap<Integer, Abitazione> getAbitazioni() { return abitazioni; }
+    public static HashMap<Integer, Feedback> getFeedbacks() { return feedbacks; }
+    public static HashMap<Integer, HashSet<Integer>> getAbitazioniHost() { return abitazioniHost; }
+    public static HashMap<Integer, HashSet<Integer>> getPrenotazioniEffettuate() { return prenotazioniEffettuate; }
+    public static HashMap<Integer, HashSet<Integer>> getPrenotazioniRicevute() { return prenotazioniRicevute; }
+    public static HashMap<Integer, Prenotazione> getPrenotazioni() { return prenotazioni; }
+    public static HashMap<Integer, Utente> getUtenti() { return utenti; }
 
     public static void addAbitazione(Abitazione ab) {
         abitazioni.put(ab.getId(), ab);
@@ -97,5 +95,7 @@ public class Database {
         prenotazioniRicevute.put(codiceHost, prenotazioniHost);
     }
 
-}
+    public static void addFeedback(Feedback fb) { feedbacks.put(fb.getId(), fb); }
+    public static void removeFeedback(Feedback fb) { feedbacks.remove(fb.getId()); }
 
+}
