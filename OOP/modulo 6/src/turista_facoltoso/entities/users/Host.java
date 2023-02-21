@@ -3,7 +3,7 @@ package turista_facoltoso.entities.users;
 import turista_facoltoso.database.Database;
 import turista_facoltoso.entities.Abitazione;
 import turista_facoltoso.entities.Prenotazione;
-import turista_facoltoso.entities.users.Utente;
+
 
 import java.time.LocalDate;
 import java.util.HashSet;

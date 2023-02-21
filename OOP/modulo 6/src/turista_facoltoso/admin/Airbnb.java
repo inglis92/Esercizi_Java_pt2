@@ -106,6 +106,9 @@ public class AirBnB {
     }
 
     // 4) ottenere gli host con più prenotazioni nell'ultimo mese (ne torniamo 5)
+    /**
+     * @return host with the higher number of reservations
+     */
     public static HashSet<Host> hostPiuPrenotazioni() {
         TreeMap<Integer, HashSet<Host>> mappaHost = new TreeMap<>(Collections.reverseOrder());
         HashSet<Host> result = new HashSet<>();
